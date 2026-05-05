@@ -1,6 +1,5 @@
 # Fortuna (app.fortuna.cc) — UI / UX Review
 
-**Review date:** 2026-05-05
 **Scope:** logged-in session, desktop 1512×862, light + dark
 **Pages I went through:** Events (home), Explore, Leaderboard, Tracking, Up/Down, Bonding, an Event detail, Filters modal, Columns modal, Settings popover
 
